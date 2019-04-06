@@ -25,7 +25,7 @@ export default class Content extends Component {
         tabs,
         cards,
       })
-    }, 800);
+    }, 500);
   }
 
   changeSelected = tab => {
